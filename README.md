@@ -9,10 +9,10 @@
     <img alt="UserScript" src="https://badgen.net/badge/userscript/available?color=green" />
   </a>
   <a href="https://github.com/prinsss/twitter-web-exporter/releases">
-    <img alt="Latest Release" src="https://badgen.net/github/release/prinsss/twitter-web-exporter" />
+    <img alt="Latest Release" src="https://badgen.net/github/release/qingchunnh/twitter-web-exporter" />
   </a>
   <a href="https://github.com/prinsss/twitter-web-exporter/blob/main/LICENSE">
-    <img alt="License" src="https://badgen.net/github/license/prinsss/twitter-web-exporter" />
+    <img alt="License" src="https://badgen.net/github/license/qingchunnh/twitter-web-exporter" />
   </a>
   <a href="https://github.com/prinsss/twitter-web-exporter">
     <img alt="TypeScript" src="https://badgen.net/badge/icon/typescript?icon=typescript&label" />
