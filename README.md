@@ -21,7 +21,7 @@
 
 <p align="center">
   English |
-  <a href="https://github.com/prinsss/twitter-web-exporter/blob/main/docs/README.zh-Hans.md">简体中文</a>
+  <a href="https://github.com/qingchunnh/twitter-web-exporter/blob/main/docs/README.zh-Hans.md">简体中文</a>
 </p>
 
 ## Repository Description  
