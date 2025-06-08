@@ -24,6 +24,10 @@
    | 简体中文
 </p>
 
+## 本仓库说明
+- 🍴fork from: https://github.com/prinsss/twitter-web-exporter
+- 🍥二次开发版本（能力有限所以单独开repo暂时不考虑给主仓库提交pr。我会尽力修复和完善！）
+
 ## 功能
 
 - 🚚 以 JSON/CSV/HTML 格式导出用户的推文、回复和喜欢
