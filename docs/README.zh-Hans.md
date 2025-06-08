@@ -9,10 +9,10 @@
     <img alt="UserScript" src="https://badgen.net/badge/userscript/available?color=green" />
   </a>
   <a href="https://github.com/prinsss/twitter-web-exporter/releases">
-    <img alt="Latest Release" src="https://badgen.net/github/release/prinsss/twitter-web-exporter" />
+    <img alt="Latest Release" src="https://badgen.net/github/release/qingchunnh/twitter-web-exporter" />
   </a>
   <a href="https://github.com/prinsss/twitter-web-exporter/blob/main/LICENSE">
-    <img alt="License" src="https://badgen.net/github/license/prinsss/twitter-web-exporter" />
+    <img alt="License" src="https://badgen.net/github/license/qingchunnh/twitter-web-exporter" />
   </a>
   <a href="https://github.com/prinsss/twitter-web-exporter">
     <img alt="TypeScript" src="https://badgen.net/badge/icon/typescript?icon=typescript&label" />
@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/prinsss/twitter-web-exporter/blob/main/README.md">English</a>
+  <a href="https://github.com/qingchunnh/twitter-web-exporter/blob/main/README.md">English</a>
    | 简体中文
 </p>
 
 ## 本仓库说明
-- 🍴fork from: https://github.com/prinsss/twitter-web-exporter
-- 🍥二次开发版本（能力有限所以单独开repo暂时不考虑给主仓库提交pr。我会尽力修复和完善！）
+- 🍴 Fork from: https://github.com/prinsss/twitter-web-exporter
+- 🍥 二次开发版本（能力有限所以单独开repo暂时不考虑给主仓库提交pr。我会尽力修复和完善！）
 
 ## 功能
 
