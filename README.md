@@ -24,6 +24,10 @@
   <a href="https://github.com/prinsss/twitter-web-exporter/blob/main/docs/README.zh-Hans.md">简体中文</a>
 </p>
 
+## Repository Description  
+- 🍴 Fork from: https://github.com/prinsss/twitter-web-exporter  
+- 🍥 Modified version (Due to limited abilities, I've created a separate repository and am temporarily not considering submitting PRs to the main repository. I'll do my best to fix and improve it!)
+
 ## Features
 
 - 🚚 Export tweets, replies and likes of any user as JSON/CSV/HTML
